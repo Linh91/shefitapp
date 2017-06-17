@@ -21,3 +21,7 @@
 /yarn-error.log
 
 .byebug_history
+
+3 Ignoring spring files
+# Ignore Spring files.
+/spring/*.pid
