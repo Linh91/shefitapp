@@ -1,0 +1,62 @@
+.container {
+  background-color: #c45063;
+  padding: 0%;
+}
+
+.logo {
+  position: fixed;
+  width: 40px;
+  left: 3%;
+  top: 2.5%;
+}
+
+header ul {
+    background-color: #c45063;
+    list-style-type: none;
+    overflow: hidden;
+    li {
+        float: right;
+    }
+  }
+
+header li {
+    float: right;
+}
+
+header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 115%;
+}
+
+header li a:hover {
+    background-color: #756d6e;
+}
+
+
+.container-footer {
+  margin-top: 500px;
+  padding-top: 2px;
+  background-color: #c45063;
+}
+
+footer a {
+  color: #756d6e;
+}
+
+footer a:hover {
+  color: #222;
+}
+
+footer ul {
+  float: right;
+  list-style: none;
+}
+
+footer ul li {
+  float: left;
+  margin-left: 15px;
+}

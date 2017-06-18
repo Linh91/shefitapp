@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+
+/*tree ensures all CSS files in app/assets/stylesheets are included into the application CSS
+self specifies where in loading sequence the CSS in app.css itself gets included*/
