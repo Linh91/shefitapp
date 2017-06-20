@@ -14,9 +14,6 @@ header ul {
     background-color: #c45063;
     list-style-type: none;
     overflow: hidden;
-    li {
-        float: right;
-    }
   }
 
 header li {
