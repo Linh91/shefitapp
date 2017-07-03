@@ -1,4 +1,5 @@
 # sheFit
+<img src="https://user-images.githubusercontent.com/17644847/27798062-c9a5cc50-6007-11e7-8c3d-a410665360d1.png" align="right" width="250">
 
 As a fit girl<br>
 So I can track my fitness<br>
