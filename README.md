@@ -33,3 +33,9 @@ I would like to be able to log how many reps and sets<br>
 <code>rake db:migrate</code><br>
 6. Now run application <br>
 <code>rails s</code><br>
+
+## How to run tests
+
+Run the below command.
+
+<code>$ rails test</code>
